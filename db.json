@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "name": "Codding",
+      "address": "Feliks Kanic str 113, Sofia, Bulgaria",
+      "date": "2023-01-06",
+      "id": 1
+    },
+    {
+      "name": "Codding",
+      "address": "Feliks Kanic str, Sofia, Bulgaria",
+      "date": "2023-01-06",
+      "id": 2
+    },
+    {
+      "name": "Next event",
+      "address": "Feliks Kanic str, Sofia, Bulgaria",
+      "date": "2023-02-01",
+      "id": 3
+    }
+  ]
+}
